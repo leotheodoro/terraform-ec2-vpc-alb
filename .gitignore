@@ -1,0 +1,9 @@
+**/*.tfstate
+**/*.tfstate.*
+**/.terraform/
+**/crash.log
+**/override.tf
+**/override.tf.json
+**/terraform.rc
+**/terraform.tfvars
+**/*.tfvars
