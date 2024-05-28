@@ -1,5 +1,3 @@
-# modules/ec2/main.tf
-
 resource "aws_instance" "app" {
   count         = var.instance_count
   ami           = var.ami_id

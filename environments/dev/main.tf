@@ -1,5 +1,3 @@
-# environments/dev/main.tf
-
 provider "aws" {
   region  = "us-east-2"
   profile = "AdministratorAccess-637423306057"
